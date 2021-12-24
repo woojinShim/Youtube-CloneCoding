@@ -11,9 +11,6 @@
 # production
 /build
 
-# API KETs
-.env
-
 # misc
 .DS_Store
 .env.local
